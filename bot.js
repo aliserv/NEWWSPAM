@@ -58,7 +58,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By عمكم , Farm Credit By عمكم, ez Farm - تممم نيك من قبل 
+        message.channel.send(`**  ,  ,  By عمكم ,   By عمكم, ez Farm - تممم نيك من قبل 
 
 سلوم 
 
@@ -82,7 +82,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By عمكم , Farm Credit By عمكم, ez Farm - تممم نيك من قبل 
+        message.channel.send(`** Spam , Frame ,  By عمكم ,  🖕 By عمكم, ez Farm - تممم نيك من قبل 
 
 سلوم 
 
